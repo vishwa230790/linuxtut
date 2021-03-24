@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "vishwa"
-echo "this is tets 2"
+echo "this is tets 3"
